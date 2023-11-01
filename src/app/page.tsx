@@ -2,6 +2,6 @@ import Image from 'next/image'
 
 export default function Home() {
   return (
-   <>Hello from Page.tsx</>
+   <h1 className='text-red-600'>Hello from Page.tsx</h1>
   )
 }
